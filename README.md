@@ -1,5 +1,7 @@
 # Roblox Open Cloud RCE (Patched)
 
+![OpenCloud](https://raw.githubusercontent.com/prism330/OpenCloud/main/opencloud.png)
+
 This repository contains the **complete source code** and research for the now **patched** Roblox Open Cloud (RCE) vulnerability. Roblox has fixed the issue, and it is no longer exploitable as of 14/6/2026.
 
 ## Overview
