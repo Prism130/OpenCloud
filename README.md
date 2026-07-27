@@ -1,4 +1,4 @@
-# Roblox Open Cloud RCE (Patched)
+# Roblox Open Cloud RCE
 
 ![OpenCloud](https://raw.githubusercontent.com/prism330/OpenCloud/main/opencloud.png)
 
