@@ -2,39 +2,45 @@
 
 ![OpenCloud](https://raw.githubusercontent.com/prism330/OpenCloud/main/opencloud.png)
 
-This repository contains the **complete source code** and research for the now **patched** Roblox Open Cloud (RCE) vulnerability. Roblox has fixed the issue, and it is no longer exploitable as of 14/6/2026.
+This repository contains the source code and documentation related to a previously existing Roblox Open Cloud vulnerability that has since been patched.
+
+Roblox addressed the issue, and the vulnerability is no longer considered exploitable as of 14/06/2026.
 
 ## Overview
 
-This repository serves as an archive of the full source code surrounding the Open Cloud RCE vulnerability.
+This repository exists as a historical archive of the research, development process, and technical findings surrounding the vulnerability.
 
-The purpose of this repository is to preserve the research for educational purposes.
+The goal is to preserve the information for educational purposes, allowing developers and security enthusiasts to understand past issues, learn from them, and improve future systems.
 
 ## Status
 
 | Component | Status |
 |-----------|--------|
 | Vulnerability | ✅ Patched |
-| Exploitable | ❌ Possible but Unlikely |
-| Repository | 📦 Archived |
+| Current Exploitability | ❌ No longer applicable |
+| Repository Status | 📦 Archived |
+
+## About This Repository
+
+This project is no longer actively maintained.
+
+The source is provided as a reference for understanding how the vulnerability functioned before it was fixed. It should not be used against Roblox services or any other platform.
 
 ## Tutorials
 
-Before anyone asks...
+No tutorials or walkthroughs will be provided.
 
-**No, I won't be making tutorials.**
-
-I'm way too lazy to record or write one. Everything you need is already in the source if you're interested in studying how it worked.
+The repository is intended as a technical archive containing the available source and information for those interested in reviewing the project.
 
 ## Disclaimer
 
-This repository is published **strictly for educational, historical, and security research purposes.**
+This repository is provided for archival and educational purposes.
 
-Since Roblox has patched the vulnerability, this repository is intended only to document the issue and preserve the research. It is **not** intended to facilitate unauthorized access or abuse of Roblox services.
+The vulnerability documented here has already been addressed by Roblox. Any use of the contents of this repository against live services, systems, or accounts without authorization is not supported.
 
-## Special Thanks
+## Credits
 
-Huge thanks to whoever reported it on HackerOne and got it patched... 😒
+Thanks to the individuals involved in identifying and reporting the issue through the proper channels, helping Roblox improve the security of its platform.
 
 ## License
 
